@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenCertificateForm", "GenCertificateForm.csproj", "{477B35ED-B116-4452-BF56-D699A35D9874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477B35ED-B116-4452-BF56-D699A35D9874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477B35ED-B116-4452-BF56-D699A35D9874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477B35ED-B116-4452-BF56-D699A35D9874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477B35ED-B116-4452-BF56-D699A35D9874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED293A3-FAA1-4C96-BE4B-4A9E462317BE}
+	EndGlobalSection
+EndGlobal

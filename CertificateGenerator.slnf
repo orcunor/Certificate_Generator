@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "GenCertificateForm.sln",
+    "projects": [
+      "GenCertificateForm.csproj"
+    ]
+  }
+}
